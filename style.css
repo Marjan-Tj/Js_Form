@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* =============== form =============== */
+
+form {
+  border: 2px solid #5f8df0;
+  background-color: #e9edf6;
+  border-radius: 25px;
+  margin: 120px;
+  padding: 48px;
+}
+
+label {
+  margin-top: 8px;
+  display: inline-block;
+  width: 130px;
+}
+
+.radio {
+  width: 50px;
+}
+
+.box {
+  margin-top: 8px;
+  width: 200px;
+  border: 1px solid #7e7e7e;
+  border-radius: 5px;
+  padding: 4px;
+}
+
+#submit {
+  background-color: #234ca4;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  margin-top: 32px;
+  padding: 8px 16px;
+}
